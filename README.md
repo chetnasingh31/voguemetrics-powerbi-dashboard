@@ -32,6 +32,8 @@ This project is a Power BI dashboard built to analyze Myntra fashion retail data
 
 <img width="637" height="436" alt="image" src="https://github.com/user-attachments/assets/10c4cf8c-c669-4805-94fe-ab0df3b9f285" />
 
+
+
 🚀 Outcome
 This project demonstrates my ability to transform raw retail data into structured business insights using Power BI, data visualization, and analytical thinking.
 It is part of my data analytics portfolio projects.
