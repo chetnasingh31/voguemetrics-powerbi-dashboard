@@ -28,6 +28,8 @@ This project is a Power BI dashboard built to analyze Myntra fashion retail data
 5) Interactive filters (Category, Gender, Brand)
 
 📷 Dashboard Preview
+
+
 <img width="637" height="436" alt="image" src="https://github.com/user-attachments/assets/10c4cf8c-c669-4805-94fe-ab0df3b9f285" />
 
 🚀 Outcome
